@@ -1,0 +1,39 @@
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG_Finder.frmPrincipal.resources
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG_Finder.Properties.Resources.resources
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\bin\Debug\BGG Finder.exe.config
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\bin\Debug\BGG Finder.exe
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\bin\Debug\BGG Finder.pdb
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG Finder.exe
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG Finder.pdb
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Carlos\source\repos\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csproj.CopyComplete
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\bin\Debug\BGG Finder.exe.config
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\bin\Debug\BGG Finder.exe
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\bin\Debug\BGG Finder.pdb
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csprojAssemblyReference.cache
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG_Finder.frmPrincipal.resources
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG_Finder.Properties.Resources.resources
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csproj.GenerateResource.cache
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csproj.CopyComplete
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.exe
+C:\Users\ITLM\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.pdb
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG_Finder.frmPrincipal.resources
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG_Finder.Properties.Resources.resources
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.exe
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.pdb
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\bin\Debug\BGG Finder.exe.config
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\bin\Debug\BGG Finder.exe
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\bin\Debug\BGG Finder.pdb
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Carlos\Desktop\BGG Finder\BGG Finder\obj\Debug\BGG Finder.csproj.CopyComplete
